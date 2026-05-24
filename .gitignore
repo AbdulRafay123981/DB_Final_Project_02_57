@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.cache
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.log
+*.tmp

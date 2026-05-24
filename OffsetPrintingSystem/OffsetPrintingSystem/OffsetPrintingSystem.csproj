@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{61291D8B-0DA2-4D4E-BB2F-24571568CD70}</ProjectGuid>
+    <ProjectGuid>{56F85595-79D0-40E6-AB4F-24D19AF0EB36}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>OffsetPrintingEstimationSystem</RootNamespace>
-    <AssemblyName>OffsetPrintingEstimationSystem</AssemblyName>
+    <RootNamespace>OffsetPrintingSystem</RootNamespace>
+    <AssemblyName>OffsetPrintingSystem</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

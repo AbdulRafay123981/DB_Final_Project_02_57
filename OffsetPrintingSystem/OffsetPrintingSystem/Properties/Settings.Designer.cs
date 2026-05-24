@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OffsetPrintingEstimationSystem.Properties
+namespace OffsetPrintingSystem.Properties
 {
 
 

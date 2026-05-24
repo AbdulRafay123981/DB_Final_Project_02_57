@@ -1,4 +1,4 @@
-﻿namespace OffsetPrintingEstimationSystem
+﻿namespace OffsetPrintingSystem
 {
     partial class Form1
     {
